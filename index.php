@@ -31,7 +31,7 @@
 					</h1>
 					<nav>
 						<a href="" class="">Sobre</a>
-						<button class="button">Playground</button>
+						<button class="button" onclick="window.open('https://github.com/arismarioneves/LordeFrio/', '_blank')">Playground</button>
 					</nav>
 				</div>
 			</header>
