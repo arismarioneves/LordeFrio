@@ -1,5 +1,8 @@
-# LordeFrio
-LORDE>FRIO
+# LORDE>FRIO
+
+Enfrente o Lorde Frio!
+
+&nbsp;
 
 Referência:
 Filme [Abestalhados 2](https://www.imdb.com/title/tt12076024/)
