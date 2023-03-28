@@ -12,4 +12,4 @@ Filme [Abestalhados 2](https://www.imdb.com/title/tt12076024/)
 
 [![Forks](https://img.shields.io/github/forks/arismarioneves/LordeFrio)](https://github.com/arismarioneves/LordeFrio/network/members)
 [![Last Updated](https://img.shields.io/github/last-commit/arismarioneves/LordeFrio.svg)](https://github.com/arismarioneves/LordeFrio/commits/master)
-[![Contributors](https://img.shields.io/github/contributors/arismarioneves/LordeFrio.svg)](https://github.com/arismarioneves/LordeFrio/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/arismarioneves/LordeFrio.svg?color=orange)](https://github.com/arismarioneves/LordeFrio/graphs/contributors)
