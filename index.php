@@ -16,7 +16,7 @@
 		<meta name="author" content="Mari05liM">
 		<meta name="contact" content="mariodev@outlook.com.br">
 		<meta name="description" content="">
-		<link rel="icon" href="favicon.svg">
+		<link rel="icon" href="favicon.ico">
 		<link rel="stylesheet" href="style.css">
 	</head>
 	<body>
@@ -24,10 +24,9 @@
 			<header class="app-header">
 				<div class="wrapper">
 					<h1>
-						<a href="#"><svg width="16" height="16" viewBox="0 0 16 16" class="icon" fill="none" xmlns="http://www.w3.org/2000/svg">
-								<path d="M11.4286 2.3158H5.74576C3.41404 2.3158 1.52381 4.0124 1.52381 6.10527C1.52381 8.19814 3.41404 9.89474 5.74576 9.89474H10.6667" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path>
-								<path d="M5.33334 6.10526H10.2542C12.586 6.10526 14.4762 7.80187 14.4762 9.89474C14.4762 11.9876 12.586 13.6842 10.2542 13.6842H4.84034" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"></path>
-							</svg></a>
+						<a href="#">
+							<img src="logo.png" width="100">
+						</a>
 					</h1>
 					<nav>
 						<a href="#summary" class="">Sobre</a>
