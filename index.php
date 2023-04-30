@@ -25,7 +25,7 @@
 				<div class="wrapper">
 					<h1>
 						<a href="#">
-							<img src="logo.png" width="100">
+							<img src="logo.png" width="30">
 						</a>
 					</h1>
 					<nav>
